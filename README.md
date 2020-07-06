@@ -8,7 +8,7 @@
 
 
 
-# Citi Bike Analytics
+**Citi Bike Analytics**
 
 ### Before You Begin
 
