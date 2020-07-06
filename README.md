@@ -27,7 +27,7 @@ Citi Bike Daily Ridership and Membership Data
 Explore Citi Bike daily ridership and membership data from January 2013 onwards. Click on the link at the bottom right of the graph to download the data as a csv file.
 
 
-# Tableau- Citi Bike Analytics
+# Citi Bike Analytics
 
 ### Before You Begin
 
