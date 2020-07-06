@@ -5,7 +5,7 @@ https://public.tableau.com/profile/ekin.kaplan#!/***
 
 
 
-**Citi Bike Trip Histories**
+*Citi Bike Trip Histories*
 We publish downloadable files of Citi Bike trip data. The data includes:
 
 *Trip Duration (seconds)
