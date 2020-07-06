@@ -1,16 +1,17 @@
 # Tableau-Challenge
 
 
-***Here is my Tableau profile***
-# Please click on here :
+## Here is my Tableau profile
+
+***Please click on here :***
  # https://public.tableau.com/profile/ekin.kaplan#!/
 
 
 
 
-**Citi Bike Analytics**
+***Citi Bike Analytics***
 
-### Before You Begin
+**Before You Begin**
 
 * If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
 
