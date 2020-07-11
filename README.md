@@ -59,11 +59,11 @@ Explore Citi Bike daily ridership and membership data from January 2013 onwards.
 **Design 3 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
 
 **The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
-* Today, what is the peak station in the city for starting a journey?
-* What are the peak stop hours in which bikes are used during a day?
+* Today, what is the peak station in the city for starting a journey? E17-Broadway 
+* What are the peak start hours in which bikes are used during a day?
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
-* Today, what is the peak station in the city for starting a journey?  W56 St & 6ave ct:3,058
+* Today, what is the peak station in the city for st0p a journey?  W56 St & 6ave ct:3,058
 * What are the peak stop hours in which bikes are used during a day?  6pm for each genders
 * How effective has gender outreach been in increasing female ridership over the timespan? Result shows, females rider is less than others.
 
