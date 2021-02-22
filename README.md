@@ -25,12 +25,12 @@
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+Example: I am as the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, I am now responsible for overseeing the largest bike sharing program in the United States. In my new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 *Citi Bike Trip Histories*
-We publish downloadable files of Citi Bike trip data. The data includes:
+to publish downloadable files of Citi Bike trip data. The data includes:
 
 * Trip Duration (seconds)
 * Start Time and Date
@@ -56,9 +56,9 @@ Explore Citi Bike daily ridership and membership data from January 2013 onwards.
 ## Task
 
 
-**Design 3 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
+**Design 3 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, I may merge multiple datasets from different periods.** 
 
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+**The following are some questions I may wish to tackle. Do not limit myself to these questions; they are suggestions for a starting point. Be creative!**
 * Today, what is the peak station in the city for starting a journey? E17-Broadway 
 * What are the peak start hours in which bikes are used during a day?
 * How effective has gender outreach been in increasing female ridership over the timespan?
@@ -80,18 +80,18 @@ Explore Citi Bike daily ridership and membership data from January 2013 onwards.
 
 * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
 
-**Finally, create your final presentation**
+**Finally, create my final presentation**
 
 * Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
 ## Considerations
 
-Remember, the people reading your analysis will **NOT** be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
+Remember, the people reading my analysis will **NOT** be data analysts. My audience will be city officials, public administrators, and heads of New York City departments. My data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. My visualizations should be colorful enough to be included in press releases, and my analysis should be thoughtful enough for dictating programmatic changes. 
 
 ## Submission 
 
-Your final submission should include:
+My final submission should include:
 
 * A link to your Tableau Public workbook that includes: 
   * 4-10 Total "Phenomenon" Visualizations 
@@ -103,7 +103,7 @@ Your final submission should include:
 ## Sharing Your Work
 In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
 
-To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
+To save my workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
 
 ## Assessment
 
